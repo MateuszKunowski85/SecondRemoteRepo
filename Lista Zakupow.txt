@@ -1,3 +1,4 @@
 Chleb  3.5
 Jajka  8.0
 Masło  5.0
+Ryż    3.2
